@@ -19,7 +19,7 @@ export default function WhatIsItSection() {
           </div>
 
           {/* subtitle */}
-          <p className="italic  font-thin">
+          <p className="italic  font-extralight">
             Η φωνή της πρώτης γραμμής γίνεται στρατηγικό εργαλείο{" "}
             <span className="font-semibold ">χωρίς</span> να διακόπτει την{" "}
             <span className="font-semibold ">καθημερινή ροή</span>.

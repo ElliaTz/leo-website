@@ -21,7 +21,7 @@ export default function AppChangeSection() {
         </div>
         <div className="bg-dark py-4 px-10 text-2xl font-bold ">Μετά</div>
 
-        {/* Γραμμές */}
+        {/*  rows */}
         <div className="p-10 border-r border-mist border-opacity-50 flex gap-3 items-start">
           <img
             src="/images/icons/iconCrossmark.png"
@@ -103,7 +103,7 @@ export default function AppChangeSection() {
       </div>
 
       {/* text below the table*/}
-      <p className="mt-8 text-center italic font-light text-sm md:text-base text-[#272E3B]">
+      <p className="mt-8 text-center italic font-extralight text-sm md:text-base text-[#272E3B]">
         Όταν η εμπειρία της πρώτης γραμμής συναντά την απόφαση των γραφείων, η
         κουλτούρα γίνεται{" "}
         <span className="text-[#4269A7] font-bold">ενεργή</span>.
